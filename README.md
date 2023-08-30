@@ -33,6 +33,7 @@ NOTE: Run the scripts in the order from 01 to (scripts in folder) 04. There are 
 | -      | 03_sandfly_tran_dyn.R | Script to run **_model.R_**, using the values in **_param_values.R_**, and process and plot the output, assuming transmission between humans and sandflies (sandfly-transmission dynamics) is present | The sandfly-abundance follows a seasonal pattern. External force of infection is not needed to sustain transmission, and it is assumed to be absent. (When sandfly-transmission is present, the model used is always the **population-model**.) |
 | 04_Interventions      | policy_highdetection.R | **_03_sandfly_tran_dyn.R_**, with the parameter pertaining to improved detection of symptomatic VL cases changed at a certain time-point, thus representing a policy/intervention to control the infection | Use of *covar* argument in `pomp` |
 | 04_Interventions      | policy_fly_abundance_reduction.R | **_03_sandfly_tran_dyn.R_**, with the parameter pertaining to reduction in sandfly abundance (through efforts such as IRS (indoor residual spraying)) changed at a certain time-point, thus representing a policy/intervention to control the infection | Use of *covar* argument in `pomp` |
+| -      | Model description.pdf | Document containing schematic diagram, equations, and details regarding the parameter values including references | This file is NOT required to run any of the scripts. It's for the readers' reference. |
 
 -------------------------------------------------------------------
 
