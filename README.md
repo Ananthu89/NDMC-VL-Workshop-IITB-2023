@@ -3,7 +3,7 @@
 Here you will find a package in `R` for modelling the visceral leishmaniasis transmission cycle in India. 
 
 1. **Read this first and save your time!.** <br/> 
-You can see five Sections (I-V) below. Section I is for everyone. Section II is not relevant for those familiar with `RStudio` and `R` and have already installed the `pomp` package (as recommended in advance). Section III is for those unfamiliar with `R` and `C`. Sections IV and V are meant for those want to adapt the scripts for their specific needs.  
+You can see five Sections (I-V) below. Section I is for everyone. Section II is not relevant for those familiar with `RStudio` and `R` and have already installed the `pomp` package (as recommended in advance). Section III is for those unfamiliar with `R` and `C`. Sections IV and V are meant for those who want to adapt the scripts for their specific needs.  
 
 2. **Meant for whom?** <br/> 
 Even for those without any understanding of programming languages, if they have a quantitative background (a masters or 4-year bachelors) and/or basic research experience in mathematical modelling, it should be possible to follow the instructions and use the scripts in the existing forms or adapt for their needs. 
