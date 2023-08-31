@@ -34,14 +34,24 @@ NOTE: Run the scripts in the order from 01 to (scripts in folder) 04. There are 
 | 04_Interventions      | policy_highdetection.R | **_03_sandfly_tran_dyn.R_**, with the parameter pertaining to improved detection of symptomatic VL cases changed at a certain time-point, thus representing a policy/intervention to control the infection | Use of *covar* argument in `pomp` |
 | 04_Interventions      | policy_fly_abundance_reduction.R | **_03_sandfly_tran_dyn.R_**, with the parameter pertaining to reduction in sandfly abundance (through efforts such as IRS (indoor residual spraying)) changed at a certain time-point, thus representing a policy/intervention to control the infection | Use of *covar* argument in `pomp` |
 | -      | Model description.pdf | Document containing schematic diagram, equations, and details regarding the parameter values including references | This file is NOT required to run any of the scripts. It's for the readers' reference. |
-| -      | VL modelling workshop IIT - Aug 2023_Day1.pdf | The slides that have been presented so far | This file is NOT required to run any of the scripts. It's for the readers' reference. |
+| -      | VL modelling workshop IIT - Aug 2023_Day1.pdf | The slides that have been presented on day 1 | This file is NOT required to run any of the scripts. It's for the readers' reference. |
+| -      | VL modelling workshop IIT - Aug 2023_Day2.pdf | The slides that have been presented on day 2 | This file is NOT required to run any of the scripts. It's for the readers' reference. |
 
 -------------------------------------------------------------------
 
-## II. Requirements to run the scripts 
+## II. Requirements to save and run the scripts 
 
 
 This section (except step 2) is particularly for those who are unfamiliar with RStudio or R. Others may skip this. 
+
+
+**Saving the files** 
+
+
+Save them in the same way they appear in the folders here. Also, to read the instructions presented here, open this **README.md** file on Github and not on your system. 
+
+
+**Running the scripts**
 
 
 1. `RStudio` and `R`  
