@@ -2,16 +2,16 @@
 
 Here you will find a set of scripts in `R` for modelling the visceral leishmaniasis transmission cycle in India. 
 
-1. <ins>**Read this first and save your time!.**<ins> <br/> 
+1. <ins>**Read this first and save your time!.**</ins> <br/> 
 You can see five Sections (I-V) below. Section I is for everyone. Section II is not relevant for those familiar with `RStudio` and `R`. Section III is for those unfamiliar with `R` and `C`. Sections IV and V are meant for those who want to adapt the scripts for their specific needs.  
 
-2. <ins>**POMP installtion**<ins> <br/> 
+2. <ins>**POMP installtion**</ins> <br/> 
 This step is mandatory. See the instructions for the installation: <https://kingaa.github.io/sbied/prep/>. Note that this may not be straightforward, and **one needs to perform the tests mentioned on this website** to confirm that POMP has been successfully installed.   
 
-3. <ins>**Meant for whom?**<ins> <br/> 
+3. <ins>**Meant for whom?**</ins> <br/> 
 Even for those without any understanding of programming languages, if they have a quantitative background (a masters or 4-year bachelors) and/or basic research experience in mathematical modelling, it should be possible to follow the instructions and use the scripts in the existing forms or adapt for their needs. 
 
-4. <ins>**Some (familiar) advice.**<ins> <br/> 
+4. <ins>**Some (familiar) advice.**</ins> <br/> 
 Before making changes in any of the scripts, we strongly advise you to save each file as a separate copy. In that case, if at all you encounter an error due to the modification you may make, you can compare with the original versions you received from us.  
 
 
