@@ -48,10 +48,10 @@ This section (except step 2) is particularly for those who are unfamiliar with R
 <ins>**Saving the files**</ins> 
 
 
-Save them in the same way they appear in the folders here. Also, to read the instructions presented here, open this **README.md** file on Github and not on your system. 
+Save them in the same way they appear in the folders here. Also, to be able to read the instructions presented here well, open this **README.md** file on Github and not on your system. 
 
 
-**Running the scripts**
+<ins>**Running the scripts**</ins>
 
 
 1. `RStudio` and `R`  
