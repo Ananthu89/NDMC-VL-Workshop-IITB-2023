@@ -45,7 +45,7 @@ NOTE: Run the scripts in the order from 01 to (scripts in folder) 04. There are 
 This section (except step 2) is particularly for those who are unfamiliar with RStudio or R. Others may skip this. 
 
 
-**Saving the files** 
+<ins>**Saving the files**</ins> 
 
 
 Save them in the same way they appear in the folders here. Also, to read the instructions presented here, open this **README.md** file on Github and not on your system. 
