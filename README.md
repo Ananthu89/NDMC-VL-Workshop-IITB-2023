@@ -1,14 +1,17 @@
 # General instructions 
 
-Here you will find a package in `R` for modelling the visceral leishmaniasis transmission cycle in India. 
+Here you will find a set of scripts in `R` for modelling the visceral leishmaniasis transmission cycle in India. 
 
-1. **Read this first and save your time!.** <br/> 
-You can see five Sections (I-V) below. Section I is for everyone. Section II is not relevant for those familiar with `RStudio` and `R` and have already installed the `pomp` package (as recommended in advance). Section III is for those unfamiliar with `R` and `C`. Sections IV and V are meant for those who want to adapt the scripts for their specific needs.  
+1. <ins>**Read this first and save your time!.**<ins> <br/> 
+You can see five Sections (I-V) below. Section I is for everyone. Section II is not relevant for those familiar with `RStudio` and `R`. Section III is for those unfamiliar with `R` and `C`. Sections IV and V are meant for those who want to adapt the scripts for their specific needs.  
 
-2. **Meant for whom?** <br/> 
+2. <ins>**POMP installtion**<ins> <br/> 
+This step is mandatory. See the instructions for the installation: <https://kingaa.github.io/sbied/prep/>. Note that this may not be straightforward, and **one needs to perform the tests mentioned on this website** to confirm that POMP has been successfully installed.   
+
+3. <ins>**Meant for whom?**<ins> <br/> 
 Even for those without any understanding of programming languages, if they have a quantitative background (a masters or 4-year bachelors) and/or basic research experience in mathematical modelling, it should be possible to follow the instructions and use the scripts in the existing forms or adapt for their needs. 
 
-3. **Some (familiar) advice.** <br/> 
+4. <ins>**Some (familiar) advice.**<ins> <br/> 
 Before making changes in any of the scripts, we strongly advise you to save each file as a separate copy. In that case, if at all you encounter an error due to the modification you may make, you can compare with the original versions you received from us.  
 
 
@@ -56,9 +59,7 @@ Save them in the same way they appear in the folders here. Also, to be able to r
 
 1. `RStudio` and `R`  
 
-2. `pomp` package (see the instructions for the installation: <https://kingaa.github.io/sbied/prep/>) 
-
-3. R-libraries `ggplot2`, `rstudioapi`, `gridExtra`, and `data.table`  
+2. R-libraries `ggplot2`, `rstudioapi`, `gridExtra`, and `data.table`  
 
 The below commands will be useful in case you need to install the required R-libraries to run the scripts:
 
@@ -67,7 +68,7 @@ _install.packages("ggplot2")_
  _install.packages("data.table")_
 _install.packages("gridExtra")_
 
-4. Finally, to run a script, after opening it using `RStudio`, select the portion of the script you want to run and click on the **`Run`** button (at the right top) of the screen 
+3. Finally, to run a script, after opening it using `RStudio`, select the portion of the script you want to run and click on the **`Run`** button (at the right top) of the screen. 
 
 ------------------------------------------------------------------- 
 
