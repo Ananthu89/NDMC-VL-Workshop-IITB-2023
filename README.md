@@ -39,6 +39,7 @@ NOTE: Run the scripts in the order from 01 to (scripts in folder) 04. There are 
 | -      | Model description.pdf | Document containing schematic diagram, equations, and details regarding the parameter values including references | This file is NOT required to run any of the scripts. It's for the readers' reference. |
 | -      | VL modelling workshop IIT - Aug 2023_Day1.pdf | The slides that have been presented on day 1 | This file is NOT required to run any of the scripts. It's for the readers' reference. |
 | -      | VL modelling workshop IIT - Aug 2023_Day2.pdf | The slides that have been presented on day 2 | This file is NOT required to run any of the scripts. It's for the readers' reference. |
+| -      | VL modelling workshop IIT - Aug 2023_Day3.pdf | The slides that have been presented on day 3 | This file is NOT required to run any of the scripts. It's for the readers' reference. |
 
 -------------------------------------------------------------------
 
