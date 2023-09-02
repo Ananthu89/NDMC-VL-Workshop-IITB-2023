@@ -46,7 +46,7 @@ NOTE: Run the scripts in the order from 01 to (scripts in folder) 04. There are 
 ## II. Requirements to save and run the scripts 
 
 
-This section (except step 2) is particularly for those who are unfamiliar with RStudio or R. Others may skip this. 
+This section is particularly for those who are unfamiliar with RStudio or R. Others may skip this. 
 
 
 <ins>**Saving the files**</ins> 
